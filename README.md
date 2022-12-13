@@ -1,2 +1,2 @@
 # Sample-Prolog-compiler
-A sample of a compiler that helps ease prolog traversal
+A sample of a prolog-java connectivity that helps ease prolog traversal
